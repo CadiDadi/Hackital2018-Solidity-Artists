@@ -13,14 +13,14 @@
   },
   {
     "id": 2,
-    "name": "Collins",
-    "picture": "images/french-bulldog.jpeg",
+    "name": "Candy",
+    "picture": "images/candy.jpg",
     "location": "Freeburn, Idaho"
   },
   {
     "id": 3,
-    "name": "Melissa",
-    "picture": "images/boxer.jpeg",
+    "name": "Julie",
+    "picture": "images/julie.jpg",
     "location": "Camas, Pennsylvania"
   },
   {
